@@ -35,3 +35,9 @@ Run caravel:
 ```
 ./caravel.sh
 ```
+
+Open .mag to see the design:
+
+```
+steve@sjkdsk1:~/Ultimachine/rapcore_caravel_flow/caravel/openlane/user_proj_example/runs/user_proj_example/results/magic (master=)$ magic -T sky130A user_proj_example.mag
+```
